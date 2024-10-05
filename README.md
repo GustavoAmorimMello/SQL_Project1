@@ -1,0 +1,3 @@
+Data Cleaning and Exploratory Data in SQL. World Life Expectancy.
+In this project we clean world Life Expectancy data using SQL. First looking for duplicates in table, deleting them, identifying blank values, populating them, and updating the table. Second we can do data exploratory. In this one, I could find correlation between Life_expectancy and GDP grouping by country. We can classify life_expectancy from lower to higher based on GDP grouping by country.
+The countries with Higher GDP have a average of Life_expectaancy around 74.2, and the countries with lower GDP value under 1500 have average LE of 64.7. Study the correlation for Status "developing" and "Developed". Look correlation between BMI(body mass index) and Life_expectancy
